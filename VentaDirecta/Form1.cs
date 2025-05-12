@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-//oki
+
 namespace VentaDirecta
 {
     public partial class Form1 : Form
