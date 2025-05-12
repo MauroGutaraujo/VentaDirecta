@@ -50,7 +50,7 @@ namespace VentaDirecta
 
         }
 
-      
+      //Hola panas
 
         private void btnRegistrar_Click_1(object sender, EventArgs e)
         {
