@@ -22,7 +22,7 @@ namespace VentaDirecta
             dgvVentas.Columns[3].Name = "Cantidad";
             dgvVentas.Columns[4].Name = "Total";
         }
-        //bajedepepa
+        
 
         private void btnRegistrar_Click(object sender, EventArgs e)
         {
