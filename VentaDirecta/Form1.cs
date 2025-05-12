@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace VentaDirecta
 {
+     
     public partial class Form1 : Form
     {
         public Form1()
@@ -49,7 +50,7 @@ namespace VentaDirecta
             txtTotal.Clear();
 
         }
-
+      
         private void label4_Click(object sender, EventArgs e)
         {
 
