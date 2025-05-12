@@ -102,7 +102,7 @@
             this.lblCantidad.Size = new System.Drawing.Size(61, 16);
             this.lblCantidad.TabIndex = 7;
             this.lblCantidad.Text = "Cantidad";
-            this.lblCantidad.Click += new System.EventHandler(this.label4_Click);
+            
             // 
             // txtCantidad
             // 
