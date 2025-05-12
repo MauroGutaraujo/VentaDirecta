@@ -50,7 +50,7 @@ namespace VentaDirecta
 
         }
 
-      
+      //día 2
 
         private void btnRegistrar_Click_1(object sender, EventArgs e)
         {
