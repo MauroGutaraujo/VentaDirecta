@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+//oki
 namespace VentaDirecta
 {
     public partial class Form1 : Form
@@ -111,6 +111,11 @@ namespace VentaDirecta
         }
 
         private void txtPrecio_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtNombre_TextChanged(object sender, EventArgs e)
         {
 
         }

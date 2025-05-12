@@ -75,6 +75,7 @@
             this.txtNombre.Name = "txtNombre";
             this.txtNombre.Size = new System.Drawing.Size(100, 22);
             this.txtNombre.TabIndex = 3;
+            this.txtNombre.TextChanged += new System.EventHandler(this.txtNombre_TextChanged);
             // 
             // lblPrecio
             // 
@@ -102,7 +103,6 @@
             this.lblCantidad.Size = new System.Drawing.Size(61, 16);
             this.lblCantidad.TabIndex = 7;
             this.lblCantidad.Text = "Cantidad";
-            
             // 
             // txtCantidad
             // 
